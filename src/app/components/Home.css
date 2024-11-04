@@ -1,0 +1,8 @@
+/* pages/Home.css */
+
+.tiles-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center tiles */
+    padding: 2rem;
+}
